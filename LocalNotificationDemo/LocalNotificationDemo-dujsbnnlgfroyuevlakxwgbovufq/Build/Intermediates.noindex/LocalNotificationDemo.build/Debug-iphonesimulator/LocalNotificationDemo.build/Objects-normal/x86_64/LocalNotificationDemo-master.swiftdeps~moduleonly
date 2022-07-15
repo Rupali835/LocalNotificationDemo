@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "08fd0c3fb84486993e60e54ef69c89ab"
+build_time: [1566389734, 821658000]
+inputs:
+  "/Users/rupalipatil/Desktop/Demo Apps/LocalNotificationDemo/LocalNotificationDemo/ViewController.swift": !dirty [1564122144, 103520832]
+  "/Users/rupalipatil/Desktop/Demo Apps/LocalNotificationDemo/LocalNotificationDemo/AppDelegate.swift": [1562922019, 179559104]
